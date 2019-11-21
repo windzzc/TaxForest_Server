@@ -1,8 +1,4 @@
-# Yotta后端
-spring boot框架实现
-
-其中application.java是工程主入口，spring-boot的主入口。
-
+# TaxForest_Server
 |模块名 | 备注 | 其他|
 |----|------|---- |
 |common | 公共配置模块  | 一些公共配置
@@ -19,4 +15,4 @@ spring boot框架实现
 
 
 
-# TaxForest_Server
+
